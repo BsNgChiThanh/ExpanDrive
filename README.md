@@ -30,7 +30,7 @@
 - Disk space: 4.0 GB
 - 1360 x 768 display resolution with True Color
 
-## Download ExpanDrive ##
+## Download ExpanDrive [Bấm vào đây](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/ErgBXFRxSPRMovqVKq4Cq00BuJfxSONPK2V0c_unk56nRA?e=B2ImV0) ##
 
 ## Hướng dẫn cài đặt và sử dụng ExpanDrive: ##
 
