@@ -1,3 +1,7 @@
+Tác giả: Nguyễn Chí Thành
+
+![IMG_1674314482411_1674314628494](https://user-images.githubusercontent.com/82578024/231749370-cff3f452-4349-46bd-80e4-dd85653ca27f.jpg)
+
 # ExpanDrive - Phần mềm biến Google Drive thành ổ đĩa trên máy tính #
 
 - ExpanDrive là phần mềm quản lý dữ liệu trên các dịch vụ đám mây cực tốt và hữu ích để giúp bạn quản lý các file trên các dịch vụ đám mây như: Dropbox, Google Drive và Google Shared Drives, Amazon Drive, Box, OneDrive và OneDrive for Business, Sharepoint, Nextcloud, Wasabi, Openstack Swift, BackBlaze B2, Amazon S3 hoặc máy chủ SFTP, FTP, WebDAV hoặc SMB/Windows File Sharing.
