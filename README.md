@@ -122,4 +122,6 @@ Bước 3: Tạo tên cho ổ đĩa:
 
   ![image](https://user-images.githubusercontent.com/82578024/221049853-3f45d2cb-b5c9-4894-8834-922229293679.png)
 
+# PHẦN MỀM TƯƠNG TỰ: #
 
+- [RAIDRIVE](https://www.raidrive.com/)
